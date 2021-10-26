@@ -1,5 +1,5 @@
 .div1{
-    border: 3px solid;
+    border: 1px solid;
     border-color: darkgray;
 
 }
@@ -33,23 +33,53 @@ button{
 .icon-twitter{
 
     padding:20px 0px 20px 0px;
+    width:100px;
 
 }
 
 .div2{
-    border: 3px solid;
+    border: 1px solid;
     border-color: darkgray;
     border-left: none;
+    border-right: none;
 }
 .div2-1{
-    border: 3px solid;
+    border: 1px solid;
     border-color: darkgray;
     border-left: none;
     border-top: none;
+    border-right: none;
 }
 
 .div2 span{
     margin-top:12px;
+    color: blue;
 }
 
+.div2-1 p{
+    margin-top:25px;
+}
+
+.div2-1 button{
+    margin-left:600px;
+}
+
+.div2-1 img{
+    width:80px;
+    margin-top:10px;
+}
+
+.container {
+    margin-top:25px;
+}
+
+.container  span{
+    margin-top:8px;
+}
+
+.div3{
+    border: 1px solid;
+    border-color: darkgray;
+
+}
 
