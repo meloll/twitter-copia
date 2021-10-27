@@ -83,3 +83,37 @@ button{
 
 }
 
+.background3{
+    background-color:rgba(178, 173, 255, 0.781);
+    border-radius:10px;
+}
+
+
+.img-n{
+    width:200px;
+    margin-top: 25px;
+}
+
+.div2-2{
+    border: 1px solid;
+    border-color: darkgray;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    
+}
+
+.div2-2 img{
+    width:60px;
+    margin-top:10px;
+}
+.name{
+    margin-top: 12px;
+    margin-right: 10px;
+}
+
+.div-post img{
+    width:650px;
+    height:450px;
+    margin-left: 150px;
+}
