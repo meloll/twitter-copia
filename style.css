@@ -1,3 +1,11 @@
+
+*{
+    margin:0px;
+    padding:0px;
+        
+}
+
+
 .div1{
     border: 1px solid;
     border-color: darkgray;
@@ -26,7 +34,7 @@ button{
 
 .btn-new-twitter{
     width:200px;
-    margin-left: 120px;
+    margin-left: 100px;
     margin-bottom: 10px;
 }
 
@@ -61,7 +69,7 @@ button{
 }
 
 .div2-1 button{
-    margin-left:600px;
+    margin-left:590px;
 }
 
 .div2-1 img{
@@ -86,6 +94,8 @@ button{
 .background3{
     background-color:rgba(178, 173, 255, 0.781);
     border-radius:10px;
+    padding: 10px;
+    margin-bottom: 10px;
 }
 
 
@@ -117,3 +127,63 @@ button{
     height:450px;
     margin-left: 0px;
 }
+
+.perfil{
+    margin-top: 10px ;
+    background-color:cornflowerblue;
+    border-radius:10px;
+    margin-left:30px;
+    margin-right:80px;
+    border: 0px solid;
+    border-color: black;
+    padding: 10px;
+}
+
+.perfil img{
+    width:50px;
+    margin-top:0px
+}
+
+.perfil p{
+    display:inline;
+}
+
+.icon-perfil{
+    margin-left: 60px;
+    margin-top: 12px;
+}
+
+.icones-img{
+    margin-left:70px;
+}
+
+.perfil2{
+    margin-top: 10px ;
+    margin-bottom: 10px;
+    background-color:cornflowerblue;
+    border-radius:10px;
+    margin-left:10px;
+    margin-right:20px;
+    border: 0px solid;
+    border-color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.perfil2 img{
+    width:50px;
+    margin-top:0px
+}
+
+.perfil2 p{
+    display:inline;
+}
+
+
+.btn2{
+    margin-top: 5px;
+    width: 100px;
+}
+
+
+
